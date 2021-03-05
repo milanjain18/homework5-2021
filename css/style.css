@@ -201,13 +201,13 @@ header{
   /*Req 12*/
   .about, .client, .method-image, .contact-image{
     /*Your code here:*/
-    grid-column: 3 / span 3;
+    grid-column: 3 / span 2;
   }
 
   /*Req 13*/
   .about-image, .client-image, .method, .contacts{
     /*Your code here:*/
-    griad-column: 3 / span 3
+    griad-column: 2 / span 2;
   }
 }
 
