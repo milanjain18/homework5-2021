@@ -194,7 +194,7 @@ header{
     /*Your code here:*/
     display: grid;
     grid-template-rows: 400px 425px 425px 400px;
-    grid-template-columns: 50px auto 500px auto 50px auto;
+    grid-template-columns: 50px auto 500px auto 50px;
 
   }
 
