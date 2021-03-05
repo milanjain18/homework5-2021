@@ -207,7 +207,7 @@ header{
   /*Req 13*/
   .about-image, .client-image, .method, .contacts{
     /*Your code here:*/
-    griad-column: 2 / span 2;
+    grid-column: 2 / span 2;
   }
 }
 
